@@ -1,9 +1,9 @@
-# Chris Titus Tech's Bypass NRO on STEROIDS!?!?!?
+# Bypass NRO
 
 From the OOBE Screen press Shift + F10
 
 ```
-curl -L christitus.com/bypass -o skip.cmd
+curl -L https://raw.githubusercontent.com/crissr11/bypassnro/refs/heads/main/bypass.cmd -o skip.cmd
 skip.cmd
 ```
 
