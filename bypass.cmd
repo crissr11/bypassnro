@@ -1,2 +1,2 @@
-curl -L -o C:\Windows\Panther\autounattend.xml https://raw.githubusercontent.com/crissr11/bypassnro/refs/heads/main/autounattend.xml
-%WINDIR%\System32\Sysprep\Sysprep.exe /oobe /autounattend:C:\Windows\Panther\autounattend.xml /reboot
+curl -L -o C:\Windows\Panther\unattend.xml https://raw.githubusercontent.com/crissr11/bypassnro/refs/heads/main/unattend.xml
+%WINDIR%\System32\Sysprep\Sysprep.exe /oobe /unattend:C:\Windows\Panther\unattend.xml /reboot
